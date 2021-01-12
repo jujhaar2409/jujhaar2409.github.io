@@ -1,6 +1,8 @@
 
-my website: [link](https://github.com/jujhaar2409/portfolio)
+[my website](https://jujhaar2409.github.io/portfolio)
 
-acad resources: [link](https://github.com/jujhaar2409/acad-resources)
+[acad resources](https://jujhaar2409.github.io/acad-resources)
 
-go to this link: [link](https://github.com/jujhaar2409) other for cool stuff!
+[flappy bird clone, hehe](https://jujhaar2409.github.io/flaPPPPPy-bird)
+
+go to this [link(my github page)](https://github.com/jujhaar2409) for other cool stuff!
